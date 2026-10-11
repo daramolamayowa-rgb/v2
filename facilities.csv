@@ -1,0 +1,10 @@
+facility_name,flare_mmscfd,c1_percent,c3_c4_percent,wobbe_index,distance_to_network_km,distance_to_market_km,power_demand_mw,collocated_demand_mmscfd,road_access,reinjection_suitable,asset_category,location_type,oil_production_bpd,flaring_authorized,is_deep_offshore,h2s_percent,co2_percent,h2o_percent
+Ren_NonAG_Urgent_01,8.5,88.0,4.5,46.2,85.0,150.0,0.0,0.0,True,False,Non-AG_Forfeiture_Risk,Onshore,12500,False,False,0.0,0.8,0.0
+Ren_NonAG_Urgent_02,14.0,91.0,2.0,44.8,110.0,180.0,0.0,0.0,True,True,Non-AG_Forfeiture_Risk,Onshore,22000,False,False,0.0,0.5,0.0
+Ren_NonAG_Urgent_03,4.2,86.0,8.0,49.1,95.0,130.0,0.0,0.0,True,False,Non-AG_Forfeiture_Risk,Onshore,8500,False,False,0.02,1.2,0.0
+Hyp_NonAG_Near_Grid,14.0,92.0,3.0,46.5,6.0,140.0,0.0,0.0,True,False,Non-AG_Forfeiture_Risk,Onshore,26000,False,False,0.0,0.0,0.0
+Hyp_NonAG_Swamp_Offtaker,5.0,87.0,5.0,46.0,70.0,200.0,4.0,4.2,False,False,Non-AG_Forfeiture_Risk,Swamp,14000,False,False,0.0,0.0,0.0
+Hyp_NonAG_Rich_Gas,3.5,78.0,14.0,52.0,100.0,110.0,0.0,0.0,True,False,Non-AG_Forfeiture_Risk,Onshore,11000,False,False,0.0,0.0,0.0
+Hyp_NonAG_Offshore_Shelf,9.0,92.0,3.0,47.0,45.0,999.0,0.0,0.0,False,True,Non-AG_Forfeiture_Risk,Offshore,28000,False,False,0.0,0.0,0.0
+Hyp_NonAG_Dead_Flare,0.6,80.0,1.5,41.0,140.0,260.0,0.0,0.0,False,False,Non-AG_Forfeiture_Risk,Swamp,2500,False,False,0.0,0.0,0.0
+Hyp_NonAG_Sour_Gas,6.0,88.0,4.0,46.2,85.0,150.0,0.0,0.0,True,False,Non-AG_Forfeiture_Risk,Onshore,14000,False,False,0.6,4.5,0.3
